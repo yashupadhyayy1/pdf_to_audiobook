@@ -11,6 +11,10 @@ Make sure you have the following dependencies installed:
 
 You can install them using the following command:
 
+```shell
+pip install PyPDF2 pyttsx3
+```
+
 
 ## Usage
 
